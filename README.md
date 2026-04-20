@@ -1,5 +1,4 @@
-# AI Learning Roadmap & Resources 
-[UNDER CONSTRUCTION]
+# AI Learning Roadmap & Resources [UNDER CONSTRUCTION]
 Good AI learning resources I have benefited from &amp; AI related articles I recommend
 
 ## Prerequisite
