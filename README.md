@@ -19,9 +19,9 @@ I tried to list them by reading order
 ### Agents
 - Ben Recht. "[Secrets of Intelligence Service Services](https://www.argmin.net/p/secrets-of-intelligence-services)". arg min. 2026.
 - Thomas Ptack. "[You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/)". fly blog. 2026.
-- *HuggingFace*. [AI Agent Course](https://huggingface.co/learn/agents-course/unit0/introduction) Unit 1.
-- *OpenAI Developer Docs*. "[Function Calling](https://developers.openai.com/api/docs/guides/function-calling)". 
-- *OpenAI Engineering Blog*. "[Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/)". 2026.
+- HuggingFace. [AI Agent Course](https://huggingface.co/learn/agents-course/unit0/introduction) Unit 1.
+- OpenAI Developer Docs. "[Function Calling](https://developers.openai.com/api/docs/guides/function-calling)". 
+- OpenAI Engineering Blog. "[Unrolling the Codex Loop](https://openai.com/index/unrolling-the-codex-agent-loop/)". 2026.
 - 자손킴(jasonkim). "[Claude API의 Request Body 분석](https://hackers.pub/@jasonkim/2025/claude-api-request-body)". 2026.
 - 자손킴(jasonkim). "[Claude Code의 거의 모든 것은 Tool Use입니다. MCP도 subagent도 skills 역시요](https://hackers.pub/@jasonkim/2025/agent-tool-use)". 2026.
 - 자손킴(jasonkim). "[Subagent는 Tool Use입니다](https://hackers.pub/@jasonkim/2025/subagent-is-tool-use)". 2026.
