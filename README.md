@@ -2,8 +2,7 @@
 Good AI learning resources I have benefited from. 
 
 - I tried to list this by reading order
-- Prerequisite
-  - Basic kowledge of programming or how computers work at the level of first year CS intro course
+- Prerequisite: Basic kowledge of programming or how computers work at the level of first year CS intro course
 
 ## General Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
