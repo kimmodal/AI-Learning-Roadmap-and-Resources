@@ -9,10 +9,10 @@ I tried to list them by reading order
 
 ---
 
-### General Overview
+## General Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
 
-### LLMs
+## LLMs
 - from Jay Alammar & Maarten Grootendorst. *Hands-on LLM*. O'Reilly. 2024.
     - Ch 1. "An Introduction to Large Language Models"
     - Ch 2. "Tokens and Embeddings"
@@ -20,7 +20,7 @@ I tried to list them by reading order
     - Ch 9. "Multimodal Large Language Models"
 - Maarten Grootendorst. "[A Visual Giude to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)". 2025.
 
-### Agents
+## Agents
 - Ben Recht. "[Secrets of Intelligence Service Services](https://www.argmin.net/p/secrets-of-intelligence-services)". arg min. 2026.
 - Thomas Ptack. "[You Should Write an Agent](https://fly.io/blog/everyone-write-an-agent/)". fly blog. 2026.
 - HuggingFace. [AI Agent Course](https://huggingface.co/learn/agents-course/unit0/introduction) Unit 1.
@@ -33,7 +33,7 @@ I tried to list them by reading order
 - Simon Willison. "[The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)". 2025.
 - Nader Dabit. "[You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32)". 2026.
 
-### Training / Data
+## Training / Data
 - Kyongchun Cho. "[You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view)". Talk @ 7th Annual Conference on Health, Inference, and Learning (CHIL). 2024.
 - Yaan Dubois. "[Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf)". Stanford CS294/194-196: Agentic AI. Fall 2025.
 - from Stanford CS336: Language Model from Scratch. Spring 2026.
