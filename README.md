@@ -7,8 +7,7 @@ Basic kowledge of programming or how computers work at the level of first year C
 ## How it works
 I tried to list them by reading order
 
-## Table of Contents
-Under construction
+---
 
 ### General Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
