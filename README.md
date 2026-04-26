@@ -1,11 +1,8 @@
 # AI Learning Resources
 Good AI learning resources I have benefited from 
 
-### Prerequisite
-Basic kowledge of programming or how computers work at the level of first year CS intro course
-
-### How it works
-I tried to list them by reading order
+- Prerequisite: Basic kowledge of programming or how computers work at the level of first year CS intro course
+- I tried to list this by reading order
 
 
 # 
