@@ -1,9 +1,10 @@
 # AI Learning Resources
-Good AI learning resources I have benefited from 
+Good AI learning resources I have benefited from. 
 
+- I tried to list this by reading order
 - Prerequisite
   - Basic kowledge of programming or how computers work at the level of first year CS intro course
-- I tried to list this by reading order
+
 
 
 # 
