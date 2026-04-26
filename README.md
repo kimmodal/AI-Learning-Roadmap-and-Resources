@@ -7,8 +7,13 @@ Basic kowledge of programming or how computers work at the level of first year C
 ## How it works
 I tried to list them by reading order
 
-## Introduction / General Overview
+## Table of Contents
+Under construction
+
+### General Overview
 - Chip Huyen. *AI Engineering*. O'Reilly. 2024.
+
+### LLMs
 - from Jay Alammar & Maarten Grootendorst. *Hands-on LLM*. O'Reilly. 2024.
     - Ch 1. "An Introduction to Large Language Models"
     - Ch 2. "Tokens and Embeddings"
@@ -29,7 +34,15 @@ I tried to list them by reading order
 - Simon Willison. "[The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)". 2025.
 - Nader Dabit. "[You Could've Invented OpenClaw](https://gist.github.com/dabit3/bc60d3bea0b02927995cd9bf53c3db32)". 2026.
 
-### Training & Data
+### Training / Data
 - Kyongchun Cho. "[You want to train language models yourself from scratch](https://drive.google.com/file/d/1ZOk79Q5PWi9u3erpufiejy5HdHd_ybYT/view)". Talk @ 7th Annual Conference on Health, Inference, and Learning (CHIL). 2024.
 - Yaan Dubois. "[Introduction to Training LLMs](https://agenticai-learning.org/slides/lecture1.pdf)". Stanford CS294/194-196: Agentic AI. Fall 2025.
-- Percy Liang. "[Lecture 13: Pretaining Data](https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_13.json)". Stanford CS336: Language Modeling from Scratch. Spring 2025.
+- from Stanford CS336: Language Model from Scratch. Spring 2026.
+  - An outline of the entire LLM development process from Percy Liang's keynote "[Marin: An Open Lab for Frontier AI](https://www.youtube.com/watch?v=AXFD-spjgjs)" @ Pytorch Conference 2025.
+  - "[Lecture 1: Overview](https://cs336.stanford.edu/lectures/?trace=lecture_01)"
+  - "[Lecture 12: Evaluation](https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_12.json)". Spring 2025.
+     // will update to this year's version when it comes out
+  - "[Lecture 13: Pretaining Data](https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_13.json)". Spring 2025.
+     // will update to this year's version when it comes out
+
+
